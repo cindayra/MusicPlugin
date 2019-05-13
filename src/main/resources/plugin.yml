@@ -1,0 +1,5 @@
+name: Music
+version: ${project.version}
+main: me.sin.music.Music
+authors: [Sin]
+description: A plugin for creating music in minecraft
